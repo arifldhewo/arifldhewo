@@ -39,12 +39,9 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-
-  <a href="https://github.com/arifldhewo">
-    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifldhewo&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="arifldhewo" />
-  </a>
-  <a href="https://github.com/arifldhewo">
-    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=arifldhewo&theme=react&hide_border=true" alt="Streak Stats"/>
+  <a href="github.com/arifldhewo">
+    <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifldhewo&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="top_langs" />
+    <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=arifldhewo&theme=dracula&hide_border=true" alt="streak" />
   </a>
 </div>
 
