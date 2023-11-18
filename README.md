@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <a href="github.com/arifldhewo">
+  <a href="https://github.com/arifldhewo">
     <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifldhewo&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="top_langs" />
     <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=arifldhewo&theme=dracula&hide_border=true" alt="streak" />
   </a>
