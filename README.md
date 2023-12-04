@@ -20,10 +20,11 @@
 
 ### Technologies
 
+![Katalon Studio](https://img.shields.io/badge/Studio-katalon?label=Katalon)
+![Cypress](https://img.shields.io/badge/Cypress-1?logo=cypress)
+![SerenityBDD](https://img.shields.io/badge/BDD-logo?logo=serenity&label=Serenity&labelColor=gray)
 ![Selenium](https://img.shields.io/badge/Selenium-logo?logo=Selenium&labelColor=gray)
 ![Rest Assured](https://img.shields.io/badge/Assured-rest?label=Rest)
-![SerenityBDD](https://img.shields.io/badge/BDD-logo?logo=serenity&label=Serenity&labelColor=gray)
-![Katalon Studio](https://img.shields.io/badge/Studio-katalon?label=Katalon)
 ![Cucumber](https://img.shields.io/badge/Cucumber-logo?logo=cucumber&labelColor=gray)
 ![Postman](https://img.shields.io/badge/Postman-logo?logo=postman&labelColor=gray)
 ![Swagger](https://img.shields.io/badge/Swagger-logo?logo=swagger&labelColor=gray)
