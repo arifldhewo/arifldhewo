@@ -5,6 +5,8 @@
   	</a>
 </h1>
 
+<h3 align="center">Focusing on Software Quality Assurance</h3>
+
 ### 👀 About Me
 - I’m currently learning Java and improving my Quality Assurance Engineer (Automation & Manual) skills
 - I was graduated from Alterra Academy as Quality Assurance Engineer 
